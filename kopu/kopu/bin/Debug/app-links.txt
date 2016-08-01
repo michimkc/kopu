@@ -1,0 +1,4 @@
+#Contains Links for "APP"
+notepad,Notepad,C:\Users\may\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\StartMenu\Notepad.lnk
+paint,,C:\Users\may\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\StartMenu\Paint.lnk
+

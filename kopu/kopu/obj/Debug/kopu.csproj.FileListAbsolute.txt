@@ -1,0 +1,10 @@
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\bin\Debug\kopu.exe.config
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\bin\Debug\kopu.exe
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\bin\Debug\kopu.pdb
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.csprojResolveAssemblyReference.cache
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.Kopu.resources
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.Properties.Resources.resources
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.csproj.GenerateResource.Cache
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.exe
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\obj\Debug\kopu.pdb
+C:\Users\may\Documents\Visual Studio 2015\Projects\kopu\kopu\kopu\bin\Debug\app-links.txt
